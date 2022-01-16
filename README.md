@@ -8,13 +8,13 @@ This is our final project for OOP course.
     <li><a href="#build-code">Build the source codes</a></li>
     <li><a href="#demo">Demo</a></li>
     <li><a href="#about-us">About us</a></li>
-</ul>
+</ul> 
 
 
 <h3 id="try-our-app">Try our app</h3>
 You can download the app from <a href="https://studenthcmusedu-my.sharepoint.com/:u:/g/personal/20120025_student_hcmus_edu_vn/Ed6EqE7mtXFLhljTgn-_KU4Brhra5ZSYd9eGoix6X1aWCQ?e=l64Qtw">this link</a>, or clone this repository and the app is available in folder Release.
 
-<h3 id="build-code">Build the source codes</h3>
+<h3 id="build-code">Build the source codes</h3> 
 
 To build this source codes, you should use IDE Qt Creator and do the following steps:
 <ul>
@@ -23,7 +23,7 @@ To build this source codes, you should use IDE Qt Creator and do the following s
 <li>Open project from file BILY.pro in folder Source/GUI</li>
 <li>Set the output folder of project to folder Release</li>
 <li>Build project with Ctrl + R</li>
-</ul>
+</ul> 
 
 <h3 id="class-diagram"> Class Diagram </h3>
 We apply Singleton pattern in implementations of Providers and class Admin.
@@ -40,5 +40,5 @@ We apply Singleton pattern in implementations of Providers and class Admin.
 <img src="./Images/account.jpg"></img>
 
 <h3 id="about-us">About Us</h3>
-<img src="./Images/aboutus.jpg"></img>
+<img src="./Images/aboutus.jpg"></img> 
 
